@@ -24,13 +24,9 @@
 
 ## Demo
 
-[Insert live demo link here] 🌐
+[] 🌐
 
-## Screenshots
 
-![Hero Section](link-to-screenshot)  
-![Featured Plants](link-to-screenshot)  
-![Event Section](link-to-screenshot)  
 
 ## Usage
 
