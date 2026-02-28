@@ -24,12 +24,6 @@
 
 ## Demo
 
-[] 🌐
+[https://kanagarajadurai1.github.io/Greenden-Website/] 🌐
 
 
-
-## Usage
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/GreenBloomPlantShow2026.git
